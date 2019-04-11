@@ -1,0 +1,8 @@
+C:\Users\Артём\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\Артём\Desktop\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\Артём\Desktop\Калькулятор\Калькулятор\obj\x86\Debug\Калькулятор.csprojResolveAssemblyReference.cache
+C:\Users\Артём\Desktop\Калькулятор\Калькулятор\obj\x86\Debug\Калькулятор.Form1.resources
+C:\Users\Артём\Desktop\Калькулятор\Калькулятор\obj\x86\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\Артём\Desktop\Калькулятор\Калькулятор\obj\x86\Debug\Калькулятор.csproj.GenerateResource.Cache
+C:\Users\Артём\Desktop\Калькулятор\Калькулятор\obj\x86\Debug\Калькулятор.exe
+C:\Users\Артём\Desktop\Калькулятор\Калькулятор\obj\x86\Debug\Калькулятор.pdb
